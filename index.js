@@ -9,7 +9,7 @@ app.use(express.static('dist'))
 let notes = [
   {
     id: '1',
-    content: 'HTML is eamsy',
+    content: 'HTML is easy',
     important: true
   },
   {
